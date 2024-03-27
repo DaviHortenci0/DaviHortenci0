@@ -1,8 +1,19 @@
-###Olá!
+# Sobre mim
 
-Meu nome é Davi Hortencio, sou um amante de ficções científicas, estou cursando Administração pela Universidade Federal de São Carlos (UFSCar) e busco agregar conhecimentos de dados e programação para minha formação profissional. Estou sempre procurando aprender coisas novas e contribuir para projetos interessantes. Abaixo estão algumas informações sobre mim:
+Graduando em Administração na Universidade Federal de São Carlos (UFSCAR) e um autodidata na área de dados. Tenho interesse em diversas áreas de atuação e sou motivado pelo desejo de inovação e pela análise criteriosa de informações. Como um entusiasta de ficção científica, minha aspiração pessoal é contribuir para a transformação da realidade, valorizando não apenas a mudança e a tecnologia, mas também a qualidade de vida e o progresso social.
 
-- 🌱 Atualmente estou aprendendo 
-- 📫 Formas de Contato: davi.hortenciog@gmail.com.
+<div style="display: flex;">
+    <div style="flex: 50%; padding: 0 10px;">
+  <img align="flex alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg">
+  <img align="flex" alt="Rafa-Ts" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg">
 
-!GIF(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2F%25D0%25B0%25D0%25BA%25D0%25B8%25D1%2580%25D0%25B0&psig=AOvVaw3Wj_zBfnlwgXKy-_mb0CHQ&ust=1711638246866000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjlxL_blIUDFQAAAAAdAAAAABAe)
+![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviHortenci0&show_icons=true&theme=gotham)
+
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/davi_hortencio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "davi.hortenciog@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/davi-hortencio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
